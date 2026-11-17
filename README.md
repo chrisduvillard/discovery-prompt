@@ -1,12 +1,13 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="discovery-prompt: get a model past the average answer" width="100%">
+</p>
 
-<img src="assets/banner.svg" alt="discovery-prompt: get a model past the average answer" width="100%">
-
-<br>
-
-**[How it works](#-how-it-works)** &nbsp;·&nbsp; **[How to use it](#-how-to-use-it)** &nbsp;·&nbsp; **[Install](#-install)** &nbsp;·&nbsp; **[How it was tested](#-how-it-was-tested)**
-
-</div>
+<p align="center">
+  <a href="#-how-it-works"><b>How it works</b></a> &nbsp;·&nbsp;
+  <a href="#-how-to-use-it"><b>How to use it</b></a> &nbsp;·&nbsp;
+  <a href="#-install"><b>Install</b></a> &nbsp;·&nbsp;
+  <a href="#-how-it-was-tested"><b>How it was tested</b></a>
+</p>
 
 <br>
 
