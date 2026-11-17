@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: overnight-brief-and-launch-line
+expected_outcome: |
+  A brief saved as a file inside the repository, and a launch line for /goal that names that file's path. The
+  line is under 4,000 characters, carries the method and the repository's limits itself, says what to do if the
+  brief is missing, and ends on a numbered result card. The brief is written in the project's terms: the tried
+  list and the open questions as the record, the dev benchmark and its 3% bar as the test, the release corpus
+  never opened, branches and no push, decisions parked in docs/ASK_JOSS.md, a cap on parallel agents, a state
+  file to resume from. The reply warns that the run may be long and may end with no result.
+context:
+  scaffold_script: place-files.sh

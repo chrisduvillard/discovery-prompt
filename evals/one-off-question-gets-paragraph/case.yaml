@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: one-off-question-gets-paragraph
+expected_outcome: |
+  A short reply whose main content is one paste-ready paragraph for the end of the user's question. The paragraph
+  makes the model state the usual answer first and then beat it, asks for the mechanism and for what would prove
+  each view wrong, and does not ask for contrarianism for its own sake. No multi-page brief, no project reading.

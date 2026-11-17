@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: applies-method-directly
+expected_outcome: |
+  A report, not a prompt. It states the usual answers and the project's beliefs and sets them aside, builds
+  candidates from the unexplained timings, checks each against the tried list and outside work, argues against
+  each, and ends with a short ranked list of what deserves a full benchmark run: each with its mechanism, its
+  expected gain with arithmetic, a cheap measurement on the unchanged code that would confirm or kill it, and
+  what would prove it wrong. It marks what comes from the repository, from a source it opened, and what is
+  conjecture; it claims no benchmark result; it leaves the release corpus alone.
+context:
+  scaffold_script: place-files.sh

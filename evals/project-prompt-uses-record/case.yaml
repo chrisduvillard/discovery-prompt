@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: project-prompt-uses-record
+expected_outcome: |
+  One paste-ready prompt fitted to this repository. It sends the session to the project's own record
+  (docs/experiments.md, notes/anomalies.md) so that tried ideas are not repeated, carries the repository's rules
+  (snapshot only, no contact with users, the July to September 2026 hold-out never queried, the 2-point and
+  400-user bar with one comparison stated in advance), has the model set the consensus aside and build candidates
+  from the unexplained observations, and stops before the hold-out. The reply says which choices are the user's.
+context:
+  scaffold_script: place-files.sh
