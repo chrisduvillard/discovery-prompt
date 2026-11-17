@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="880" height="280" role="img" aria-label="The steps in order: state the usual answer, find the gaps, build new ideas, check they are new, try to kill them, test the survivors">
+  <title>The steps in order: state the usual answer, find the gaps, build new ideas, check they are new, try to kill them, test the survivors</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1026"/><stop offset="0.55" stop-color="#1e1b4b"/><stop offset="1" stop-color="#3b0f6b"/>
+    </linearGradient>
+    
+  </defs>
+  <rect width="880" height="280" rx="20" fill="url(#bg)"/>
+  <text x="48" y="48" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.6" fill="#a5b4fc">THE STEPS, IN ORDER</text>
+  <rect x="48" y="74" width="246" height="58" rx="14" fill="#2563eb"/>
+  <circle cx="76" cy="103" r="14" fill="#ffffff" fill-opacity="0.22"/>
+  <text x="76" y="108.5" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">1</text>
+  <text x="100" y="108.5" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#ffffff">State the usual answer</text>
+  <path d="M 300 103 h 5" stroke="#cbd5e1" stroke-width="2.2"/><path d="M 312 103 l -8 -5 v 10 z" fill="#cbd5e1"/>
+  <rect x="317" y="74" width="246" height="58" rx="14" fill="#4f46e5"/>
+  <circle cx="345" cy="103" r="14" fill="#ffffff" fill-opacity="0.22"/>
+  <text x="345" y="108.5" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">2</text>
+  <text x="369" y="108.5" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#ffffff">Find the gaps</text>
+  <path d="M 569 103 h 5" stroke="#cbd5e1" stroke-width="2.2"/><path d="M 581 103 l -8 -5 v 10 z" fill="#cbd5e1"/>
+  <rect x="586" y="74" width="246" height="58" rx="14" fill="#7c3aed"/>
+  <circle cx="614" cy="103" r="14" fill="#ffffff" fill-opacity="0.22"/>
+  <text x="614" y="108.5" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">3</text>
+  <text x="638" y="108.5" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#ffffff">Build new ideas</text>
+  <rect x="48" y="170" width="246" height="58" rx="14" fill="#0e7490"/>
+  <circle cx="76" cy="199" r="14" fill="#ffffff" fill-opacity="0.22"/>
+  <text x="76" y="204.5" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">4</text>
+  <text x="100" y="204.5" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#ffffff">Check they are new</text>
+  <path d="M 300 199 h 5" stroke="#cbd5e1" stroke-width="2.2"/><path d="M 312 199 l -8 -5 v 10 z" fill="#cbd5e1"/>
+  <rect x="317" y="170" width="246" height="58" rx="14" fill="#dc2626"/>
+  <circle cx="345" cy="199" r="14" fill="#ffffff" fill-opacity="0.22"/>
+  <text x="345" y="204.5" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">5</text>
+  <text x="369" y="204.5" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#ffffff">Try to kill them</text>
+  <path d="M 569 199 h 5" stroke="#cbd5e1" stroke-width="2.2"/><path d="M 581 199 l -8 -5 v 10 z" fill="#cbd5e1"/>
+  <rect x="586" y="170" width="246" height="58" rx="14" fill="#15803d"/>
+  <circle cx="614" cy="199" r="14" fill="#ffffff" fill-opacity="0.22"/>
+  <text x="614" y="204.5" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">6</text>
+  <text x="638" y="204.5" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#ffffff">Test the survivors</text>
+  <path d="M 709.0 136 v 8 q 0 8 -8 8 H 179.0 q -8 0 -8 8 v 2" fill="none" stroke="#cbd5e1" stroke-width="2.2"/>
+  <path d="M 171.0 168 l -6 -9 h 12 z" fill="#cbd5e1"/>
+  <text x="440" y="258" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#a5b4fc">Many ideas go in. Few come out.</text>
+</svg>
