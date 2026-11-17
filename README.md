@@ -2,6 +2,8 @@
 
 <img src="assets/banner.svg" alt="discovery-prompt: get a model past the average answer" width="100%">
 
+<br>
+
 **[How it works](#-how-it-works)** &nbsp;·&nbsp; **[How to use it](#-how-to-use-it)** &nbsp;·&nbsp; **[Install](#-install)** &nbsp;·&nbsp; **[How it was tested](#-how-it-was-tested)**
 
 </div>
