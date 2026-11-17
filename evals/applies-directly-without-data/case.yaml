@@ -5,6 +5,6 @@ expected_outcome: |
   queried. It gives at most three candidates in full, each built from unexplained lines of the record, with how
   new it is, the comparison Mara would state and run, the result that would kill it and the strongest objection.
   It sets the tried ideas aside by pointing at the experiments, keeps the repository's bar, proposes no query on
-  the hold-out and no contact with users, and stays near 1,000 words.
+  the hold-out and no contact with users, and stays near 1,200 words.
 context:
   scaffold_script: place-files.sh
